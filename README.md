@@ -45,7 +45,7 @@ Let's collaborate and bring it to life
 ## Current Works
  * create an intranet for Samsic ✨
 
-_Ceci est un texte en tout petit._
+'Ceci est un texte en tout petit.'
 
 <!--
 **HeleneHinde/HeleneHinde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

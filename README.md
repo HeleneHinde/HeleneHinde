@@ -14,27 +14,28 @@
 
 ## Who am I?
  ```php
-public class WhoAmI
+class WhoAmI
 {
-    public string User = "Hélène Hervé";
-    public string CurrentWork = "Writing code";
-    public string[] Hobbies = [
+    public string $user = "Hélène Hervé";
+    public string $currentWork = "Writing code";
+    public array $hobbies = [
         "Coding",
         "Travel",
         "Theater",
         "Cinema",
-        "Games and video games ];
+        "Games and video games"
+    ];
 
-    public GetCity(): string
+    public function getCity(): string
     {
         return "Orgères, France";
     }
 
-    public Ambitions(): void
+    public function ambitions(): void
     {
-        FindAGoodJob();
-        CreateAPersonalProject();
-        // Assume 10 more awesome ambitions here;
+        $this->findAGoodJob();
+        $this->createAPersonalProject();
+        // Assume 10 more awesome ambitions here
     }
  ```
 

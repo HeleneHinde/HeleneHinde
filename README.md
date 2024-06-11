@@ -25,12 +25,12 @@ public class WhoAmI
         "Cinema",
         "Games and video games ];
 
-    public string GetCity()
+    public GetCity(): string
     {
         return "Orgères, France";
     }
 
-    public void Ambitions()
+    public Ambitions(): void
     {
         FindAGoodJob();
         CreateAPersonalProject();

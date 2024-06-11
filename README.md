@@ -18,12 +18,12 @@ public class WhoAmI
 {
     public string User = "Hélène Hervé";
     public string CurrentWork = "Writing code";
-    public string[] Hobbies = {
+    public string[] Hobbies = [
         "Coding",
         "Travel",
         "Theater",
         "Cinema",
-        "Games and video games };
+        "Games and video games ];
 
     public string GetCity()
     {

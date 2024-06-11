@@ -13,7 +13,7 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=HeleneHinde&layout=compact">
 
 ## Who am I?
- ```csharp
+ ```
 public class WhoAmI
 {
     public string User = "Hélène Hervé";
@@ -41,6 +41,8 @@ public class WhoAmI
 ## You have a project?
 Let's collaborate and bring it to life
 
+## Current Works
+ * create an intranet for Samsic ✨
 <!--
 **HeleneHinde/HeleneHinde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

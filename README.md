@@ -34,7 +34,7 @@ public class WhoAmI
     {
         FindAGoodJob();
         CreateAPersonalProject();
-        // Assume 10 more awesome ambitions here  ;)
+        // Assume 10 more awesome ambitions here;
     }
  ```
 <!--

@@ -1,5 +1,9 @@
 ## Hey, [I'm Hélène!]() <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
+<h1>Welcome on my Github!</h1> 
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/h%C3%A9l%C3%A8ne-herv%C3%A9/]) 
+[![Gmail Badge](https://img.shields.io/badge/helene.herve@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:helene.herve@outlook.com)
 <!--
 **HeleneHinde/HeleneHinde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

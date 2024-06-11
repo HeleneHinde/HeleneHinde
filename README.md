@@ -11,6 +11,32 @@
 * Frontend and Backend Web Development
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=HeleneHinde&layout=compact">
+
+## Who am I?
+ ```csharp
+public class WhoAmI
+{
+    public string User = "Hélène Hervé";
+    public string CurrentWork = "Writing code";
+    public string[] Hobbies = {
+        "Coding",
+        "Travel",
+        "Theater",
+        "Cinema",
+        "Games and video games };
+
+    public string GetCity()
+    {
+        return "Orgères, France";
+    }
+
+    public void Ambitions()
+    {
+        FindAGoodJob();
+        CreateAPersonalProject();
+        // Assume 10 more awesome ambitions here  ;)
+    }
+ ```
 <!--
 **HeleneHinde/HeleneHinde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

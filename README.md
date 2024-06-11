@@ -37,6 +37,10 @@ public class WhoAmI
         // Assume 10 more awesome ambitions here;
     }
  ```
+
+## You have a project?
+Let's collaborate and bring it to life
+
 <!--
 **HeleneHinde/HeleneHinde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

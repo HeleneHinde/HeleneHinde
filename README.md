@@ -45,7 +45,7 @@ Let's collaborate and bring it to life
 ## Current Works
  * create an intranet for Samsic ✨
 
-                                                                                                'merci à [Quentin Martinez](https://www.doyoubuzz.com/q-martinez) pour ce ReadMe'
+                     merci à [Quentin Martinez](https://www.doyoubuzz.com/q-martinez) pour ce ReadMe
 
 <!--
 **HeleneHinde/HeleneHinde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

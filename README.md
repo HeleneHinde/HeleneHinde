@@ -8,6 +8,7 @@
 ## :computer: Technologies I Love
 * PHP and Symfony
 * Java
+* Kotlin
 * Frontend and Backend Web Development
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=HeleneHinde&layout=compact">

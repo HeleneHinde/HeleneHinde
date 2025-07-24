@@ -35,8 +35,9 @@ class WhoAmI
     public function ambitions(): void
     {
         $this->findAGoodJob();
-        $this->createAPersonalProject([BD Asterix](https://github.com/HeleneHinde/BD-Asterix));
+        echo "Check my personal project: BD Asterix 👉 https://github.com/HeleneHinde/BD-Asterix";
     }
+
  ```
 
 ## You have a project?
@@ -44,7 +45,7 @@ Let's collaborate and bring it to life
 
 ## Recent Projects
 * Developed an internal intranet platform for Samsic to improve internal communication and resource sharing ✨
-
+* [![📘 BD Asterix](https://img.shields.io/badge/BD--Asterix-Read--the--Project-blue?style=for-the-badge)](https://github.com/HeleneHinde/BD-Asterix)
 <br>
 <br>
  

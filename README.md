@@ -35,22 +35,21 @@ class WhoAmI
     public function ambitions(): void
     {
         $this->findAGoodJob();
-        $this->createAPersonalProject();
-        // Assume 10 more awesome ambitions here
+        $this->createAPersonalProject([BD Asterix](https://github.com/HeleneHinde/BD-Asterix));
     }
  ```
 
 ## You have a project?
 Let's collaborate and bring it to life
 
-## Current Works
- * create an intranet for Samsic ✨
+## Recent Projects
+* Developed an internal intranet platform for Samsic to improve internal communication and resource sharing ✨
 
 <br>
 <br>
  
  
- Thanks to [Quentin Martinez](https://www.doyoubuzz.com/q-martinez) for this ReadMe
+ Thanks to [Quentin Martinez](https://www.doyoubuzz.com/q-martinez) for this idea
 
 <!--
 **HeleneHinde/HeleneHinde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

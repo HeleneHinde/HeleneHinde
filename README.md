@@ -6,6 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/helene.herve@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:helene.herve@outlook.com)
 
 ## :computer: Technologies I Love
+* Python
 * PHP and Symfony
 * Java
 * Kotlin
@@ -47,22 +48,3 @@ Let's collaborate and bring it to life
 * Developed an internal intranet platform for Samsic to improve internal communication and resource sharing ✨
 * [![📘 BD Asterix](https://img.shields.io/badge/BD--Asterix-Read--the--Project-blue?style=for-the-badge)](https://github.com/HeleneHinde/BD-Asterix)
 <br>
-<br>
- 
- 
- Thanks to [Quentin Martinez](https://www.doyoubuzz.com/q-martinez) for this idea
-
-<!--
-**HeleneHinde/HeleneHinde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

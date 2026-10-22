@@ -2,7 +2,7 @@
 
 <h1>Welcome on my Github!</h1> 
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/h%C3%A9l%C3%A8ne-herv%C3%A9/]) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h%C3%A9l%C3%A8ne-herv%C3%A9/) 
 [![Gmail Badge](https://img.shields.io/badge/helene.herve@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:helene.herve@outlook.com)
 
 ## :computer: Technologies I Love
